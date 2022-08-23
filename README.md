@@ -1,0 +1,2 @@
+# selenium_for_badminton
+基于selenium的中山大学抢场程序参考，不会被封ip，但效率一般
